@@ -20,7 +20,7 @@ Run App:
 -
 from ``keepit_app`` docker container:
 ```
-php bin/console app:process-html <URL>
+php bin/console app:find-max-ul <URL>
 ```
 
 Run Tests:
